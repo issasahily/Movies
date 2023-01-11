@@ -1,0 +1,79 @@
+{
+    "movies":[
+        {
+            "id":1,
+            "image":"./images/avengersendgame.jpg",
+            "title":"Avengers",
+            "category":"super hero",
+            "time":135
+        },
+        {
+            "id":2,
+            "image":"./images/avatar.jpg",
+            "title":"Avatar",
+            "category":"science fiction",
+            "time":135
+        }, {
+            "id":3,
+            "image":"./images/lotr.jpg",
+            "title":"The Lord Of The Rings",
+            "category":"fantasy",
+            "time":135
+        }, {
+            "id":4,
+            "image":"./images/the hobbit.jpg",
+            "title":"The Hobbit",
+            "category":"fantasy",
+            "time":135
+        }, {
+            "id":5,
+            "image":"./images/How to train your dragon.jpg",
+            "title":"How to train your dragon",
+            "category":"fantasy",
+            "time":135
+        }, {
+            "id":6,
+            "image":"./images/interstaller.jpg",
+            "title":"Interstaller",
+            "category":"science fiction",
+            "time":135
+        }, {
+            "id":7,
+            "image":"./images/black bird.jpg",
+            "title":"Black Bird",
+            "category":"historic",
+            "time":135
+        }, {
+            "id":8,
+            "image":"./images/A_Quiet_Place_Part_II.jpg",
+            "title":"Aquiet place",
+            "category":"historic",
+            "time":135
+        }, {
+            "id":9,
+            "image":"./images/up.jpg",
+            "title":"Up",
+            "category":"fantasy",
+            "time":135
+        }, {
+            "id":10,
+            "image":"./images/titanic.jpg",
+            "title":"Titanic",
+            "category":"historic",
+            "time":135
+        }, {
+            "id":11,
+            "image":"./images/fast and furios.jpg",
+            "title":"Fast and furios",
+            "category":"Action",
+            "time":135
+        }, {
+            "id":12,
+            "image":"./images/cindrella.jpg",
+            "title":"Cindrella",
+            "category":"adventure",
+            "time":135
+        }
+
+    ]
+}
